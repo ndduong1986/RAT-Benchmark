@@ -8,7 +8,7 @@ This repository contains Matlab implementations of the algorithms used in our pa
 - CODIPAS (Combined Fully Distributed Payoff and Strategy): a fully distributed RL algoirthm
 
 # Dataset
-The following datasets are used in setting up PHY data rates of mobile users based on the mapping table of the corresponding technology.
+The following datasets are used in setting up PHY data rates of mobile users based on the mapping table of the corresponding technology:
 - The WiFi dataset: this dataset provides traces of Received Signal Strength (RSS) measurement of the WiFi base stations collected at the University of Colorado. Available to access at https://crawdad.org/~crawdad/cu/cu_wart/20111024/.
 - The LTE dataset: this dataset provides the measured Channel Quality Indication (CQI) of a real-word LTE base stations from a tier-1 LTE operator in North America.
 
