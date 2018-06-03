@@ -4,8 +4,8 @@ This repository contains Matlab implementations of the algorithms used in our pa
 - LSH (Local Search Heuristic): a centralized approach with local search 
 - RM (Regret Matching): a partially distributed game-theoretic algorithm
 - RSG (RAT Selection Games): a non-cooperative game-theoretic algorithm
-- ERL (Enhanced Reinforcement Learning): a reinforcement learning with network-assisted feedback
-- CODIPAS (Combined Fully Distributed Payoff and Strategy Reinforcement Learning): a fully distributed algoirthm
+- ERL (Enhanced Reinforcement Learning): a RL algorithm with network-assisted feedback
+- CODIPAS (Combined Fully Distributed Payoff and Strategy): a fully distributed RL algoirthm
 
 # Dataset
 The following datasets are used in setting up PHY data rates of mobile users based on the mapping table of the corresponding technology.
