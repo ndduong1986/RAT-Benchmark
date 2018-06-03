@@ -4,7 +4,7 @@ This repository contains Matlab implementations of the algorithms used in our pa
 - LSH (Local Search Heuristic): a centralized approach with local search 
 - RM (Regret Matching): a partially distributed game-theoretic algorithm
 - RSG (RAT Selection Games): a non-cooperative game-theoretic algorithm
-- [ERL (Enhanced Reinforcement Learning): a RL algorithm with network-assisted feedback](https://github.com/ndduong1986/RAT-Benchmark/blob/master/algorithms/ERL.m)
+- [ERL (Enhanced Reinforcement Learning)](https://github.com/ndduong1986/RAT-Benchmark/blob/master/algorithms/ERL.m): a RL algorithm with network-assisted feedback]
 - CODIPAS (Combined Fully Distributed Payoff and Strategy): a fully distributed RL algoirthm
 
 ## Dataset
