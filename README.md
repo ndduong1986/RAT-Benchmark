@@ -1,6 +1,6 @@
 # RAT-Benchmark
 This repository contains Matlab implementations of the algorithms used in our paper entitled "Evaluating Performance of RAT Selection Algorithms for 5G HetNets", which we are submitting to be considered for publication in the IEEE Access journal. Our benchmark includes a library of different radio access technology (RAT) selection algorithms including:
-- Highest Signal Strength (HSS)
+- [Highest Signal Strength (HSS)](https://github.com/ndduong1986/RAT-Benchmark/blob/master/algorithms/HSS.m)
 - Local Search Heuristic (LSH) 
 - Regret Matching (RM)
 - RAT Selection Games (RSG)
