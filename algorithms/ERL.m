@@ -1,7 +1,7 @@
 clear
 close all;
 
-load phydatarate_hetnets_100users_10BSs.mat
+load phydatarate_100users_10BSs.mat
 N = 5000;                      % Number of interactions                        t = 1..N
 u = zeros(S,M);                % Utility payoff of players                     u(j,t,i)
 a = zeros(N,M);                % Action of players                             a(t,i)
