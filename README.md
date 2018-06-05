@@ -14,8 +14,8 @@ The following datasets are used in setting up PHY data rates of mobile users bas
 
 ## Copyright
 If you use any of the algorithms implemented in this repository, we would appreciate it if you could cite our paper:
-
-D. D. Nguyen, H. X. Nguyen and L. B. White, "Evaluating Performance of RAT Selection Algorithms for 5G HetNets,” submitted to the IEEE Access, under review, June 2018. (will be updated)
+- D. D. Nguyen, H. X. Nguyen and L. B. White, "Evaluating Performance of RAT Selection Algorithms for 5G HetNets,” The University
+of Adelaide, Australia, Technical Report, June 2018. (will be updated)
 
 ## Contacts
 This dataset and benchmark have been developed at the University of Adelaide with the effort of the authors:
